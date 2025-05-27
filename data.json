@@ -1,10 +1,13 @@
 {
   "SaldoIniziale1": 300,
   "SaldoAttuale1": 300,
+  "NomeSquadra1": "A.S.Cobarese",
 
   "SaldoIniziale2": 150,
   "SaldoAttuale2": 150,
+  "NomeSquadra2": "A.S.Temio",
   
   "SaldoIniziale3": 50,
-  "SaldoAttuale3": 50
+  "SaldoAttuale3": 50,
+  "NomeSquadra3": "Messi Male"
 }

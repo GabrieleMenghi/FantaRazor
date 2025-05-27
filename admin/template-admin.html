@@ -7,10 +7,10 @@
 </head>
 <body>
   <h1>Admin Gift Card</h1>
-  <p>Saldo attuale: € {{SALDO}}</p>
+  <p>Saldo attuale: € {{SALDO_ATTUALE}}</p>
   <form method="post">
-    <label for="saldo">Nuovo saldo:</label>
-    <input type="number" name="saldo" id="saldo" step="0.01" required>
+    <label for="saldo">Spesa:</label>
+    <input type="number" name="saldoDaSottrarre" id="saldoDaSottrarre" step="0.01" required>
     <button type="submit">Aggiorna</button>
   </form>
   {{MESSAGGIO}}
